@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8e90a82d41ced1f40b73e6684c4a3957
+timeCreated: 1492552488
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - jumpSound: {fileID: 8300000, guid: f684266877a8cb041baa5980be382dac, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
